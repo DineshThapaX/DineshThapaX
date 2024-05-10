@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Dinesh Thapa.
-(Big Data, Analytics & ML/AI)
+- 👋 Hi, I’m Dinesh Thapa.<br>
+<b>(Big Data, Analytics & ML/AI)</b>
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/hello-dinesh/
 
 <!---
 DineshThapaX/DineshThapaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
