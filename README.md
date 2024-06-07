@@ -3,7 +3,7 @@ I am a skilled professional combining academic learning with real-world experien
 
 ## Academic Projects
 ### 1. Dissertation: Computer Vision for Autonomous Car using Big Data Technologies
-**28/2024 – Now**  
+**05/2024 – Now**  
 Currently, Working on this project.
 
 ### 2. Diabetes Prediction using Machine Learning and Graph Analysis using Neo4J
