@@ -4,7 +4,7 @@ I am a skilled professional combining academic learning with real-world experien
 ## Basic Projects
 ### 1. Power BI Kevin Cookie Company 
 <a href="https://github.com/DineshThapaX/power-bi-kevin-cookie-company-basic-project1" target="_blank">GitHub</a> 
-https://github.com/DineshThapaX/wordcloud_project
+
 ### 2. WordCloud Project using R
 <a href="https://github.com/DineshThapaX/wordcloud_project" target="_blank">GitHub</a>
 
