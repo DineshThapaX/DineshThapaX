@@ -2,7 +2,7 @@
 I am a skilled professional combining academic learning with real-world experience in data analytics, software development, and digital marketing. Currently studying for an MSc in Big Data Analytics at Birmingham City University, building upon a Bachelor's degree in Computer Applications. Proficient in various programming languages and tools, with a strong track record in projects involving data analysis, web development, and marketing. 
 
 --
-Connect with me on [LinkedIn](https://www.linkedin.com/in/hello-dinesh/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hello-dinesh/).
 
 ## Basic Projects
 ### 1. Power BI Kevin Cookie Company 
