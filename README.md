@@ -6,7 +6,7 @@ I am a skilled professional combining academic learning with real-world experien
 ### Amazon UK Data Mining Project
 **10/2023 – 12/2023**  
 Used R Programming to perform dataset preprocessing, exploratory data analysis, time series analysis, regression analysis, and K-means clustering.  
-[GitHub](#)  
+[GitHub](https://github.com/DineshThapaX/amazon-statistical-analysis)  
 
 ### Room Rental Marketplace Database System
 **10/2023 – 12/2023**  
