@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dinesh Thapa.<br>
 <b>(Big Data, Analytics & ML/AI)</b>
 
+Academic Projects
 Connect with me on LinkedIn: https://www.linkedin.com/in/hello-dinesh/
 
 <!---
