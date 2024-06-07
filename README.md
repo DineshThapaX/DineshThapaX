@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Dinesh Thapa
 I am a skilled professional combining academic learning with real-world experience in data analytics, software development, and digital marketing. Currently studying for an MSc in Big Data Analytics at Birmingham City University, building upon a Bachelor's degree in Computer Applications. Proficient in various programming languages and tools, with a strong track record in projects involving data analysis, web development, and marketing. 
 
+---
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hello-dinesh/)
+
 ## Basic Projects
 ### 1. Power BI Kevin Cookie Company 
 <a href="https://github.com/DineshThapaX/power-bi-kevin-cookie-company-basic-project1" target="_blank">GitHub</a> 
@@ -43,11 +46,6 @@ Used SQL & MySQL and implemented two database optimization techniques: indexing 
 Used R Programming to answer relevant statistical questions using Amazon UK dataset and implemented different methods like Correlation Analysis, Regression Analysis, and Predictive Analysis.  
 <a href="https://github.com/DineshThapaX/amazon-statistical-analysis" target="_blank">GitHub</a>  
 
- 
-
----
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/hello-dinesh/)
 
 <!---
 DineshThapaX/DineshThapaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
